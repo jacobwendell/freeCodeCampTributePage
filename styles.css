@@ -1,0 +1,97 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(104,113,112);
+}
+
+header {
+  text-align: center;
+  color: rgb(192,247,248);
+  font-size: 1.15em;
+  padding-top: 10px;
+}
+
+#title {
+  font-size: 2.5em;
+}
+
+#title-caption {
+  letter-spacing: 1px;
+  color: black;
+}
+
+#img-div {
+  width: 80%;
+  padding: 60px 40px 20px;
+  margin: 0 auto;
+  background-color: rgb(35,52,71);
+  border-radius: 10px;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+
+}
+
+#img-caption {
+  text-align: center;
+  margin: 20 0 0 0;
+  color: rgb(192,247,248);
+  font-size: 1.15em;
+  letter-spacing: 1px;
+  padding: 20px 0 10px;
+}
+
+#tribute-content {
+
+  text-align: center;
+
+}
+
+#list-title {
+  font-size: 1.6em;
+  color: rgb(192,247,248);
+}
+
+ul {
+  list-style-type: none;
+  font-size: 1.2em;
+  width: 40%;
+  margin: 0 auto;
+  line-height: 25px;
+  text-align: center;
+}
+
+.bold {
+  font-weight: bold;
+  color: rgb(192,247,248);
+}
+
+.italics {
+  font-style: italic; 
+}
+
+#tatsuya-quote {
+  padding: 20px 0px 5px;
+  font-size: 20px;
+}
+
+#quote-credit {
+  font-size: 20px;
+  color: rgb(192,247,248);
+}
+
+footer {
+  margin: 40px auto;
+  text-align: center;
+  color: black;
+  font-size: 1.3em;
+  padding-bottom: 10px;
+}
+
+a {
+  color: rgb(192,247,248);
+}
